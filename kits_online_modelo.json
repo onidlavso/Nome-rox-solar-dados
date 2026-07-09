@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Kit 500 kWh",
+    "descricao": "Sistema para geração média de 500 kWh/mês",
+    "consumoMedio": "500",
+    "tipoFornecimento": "Monofásico 220V Residencial",
+    "marcaModulo": "TSUN",
+    "potenciaModulo": "600",
+    "qtdModulos": "7",
+    "marcaInversor": "SAJ",
+    "potenciaInversor": "5",
+    "qtdInversor": "1",
+    "valorVista": "13490",
+    "financiamento": "72",
+    "carencia": "120"
+  },
+  {
+    "nome": "Kit 600 kWh",
+    "descricao": "Sistema para geração média de 600 kWh/mês",
+    "consumoMedio": "600",
+    "tipoFornecimento": "Monofásico 220V Residencial",
+    "marcaModulo": "TSUN",
+    "potenciaModulo": "600",
+    "qtdModulos": "8",
+    "marcaInversor": "SAJ",
+    "potenciaInversor": "6",
+    "qtdInversor": "1",
+    "valorVista": "14490",
+    "financiamento": "72",
+    "carencia": "120"
+  }
+]
